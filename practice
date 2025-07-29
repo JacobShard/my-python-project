@@ -1,0 +1,17 @@
+print("hello")
+
+print("world", end="\n")
+print("hello", end="|Hi")
+
+hello = "jacob"
+print((hello))
+
+name = input("name: ")
+print(name)
+age = input("age: ")
+print("hello", name, "you are", age, "years old")
+
+x = 9
+y = 3.5
+result = x - y
+print(result)
